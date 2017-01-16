@@ -1,0 +1,2 @@
+Liste d'erreur clé valeur
+http://doc.pcsoft.fr/fr-FR/?7513003&name=pszWDGetLastError
