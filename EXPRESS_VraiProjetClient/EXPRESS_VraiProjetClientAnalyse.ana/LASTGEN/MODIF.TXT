@@ -1,1 +1,4 @@
-//MO000-000.TXT ANA00000 TO ANA00000
+//MO000-001.TXT ANA00000 TO ANA00001
+EXPRESS_Client		NFI		nouveau fichier
+EXPRESS_Identifiants		NFI		nouveau fichier
+Contrainte_EXPRESS_Client_EXPRESS_Identifiants		NWL	EXPRESS_Client (IDEXPRESS_Client) et EXPRESS_Identifiants (IDEXPRESS_Client)	Nouvelle liaison entre les fichiers EXPRESS_Client (IDEXPRESS_Client) et EXPRESS_Identifiants (IDEXPRESS_Client)
